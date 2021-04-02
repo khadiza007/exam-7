@@ -1,0 +1,89 @@
+
+.hero-section{
+    height:600px;
+    background: #F0FFF0;
+    margin-bottom: 20px;
+}
+.bg{
+    background: #F0FFF0;
+    padding: 40px;
+}
+.nav-link{
+    font-weight: bold;
+}
+button{
+    border: none;
+    background: #21B573;
+    padding: 10px 20px;
+    border-radius: 25px;
+    color: #fff;
+}
+.student img{
+    width: 100%;
+}
+.learn{
+    margin-left: 38px;
+}
+.text{
+    color:#FC5722
+}
+span{
+    color:#21B573;
+}
+.book{
+    background: #F8FFFB;
+    text-align: center;
+    padding: 30px 0px;
+    border-radius:12px;
+    margin-top:12px;
+}
+.book h3{
+    margin-top: 7px;
+
+}
+.book:hover{
+    background: #fff;
+    box-shadow: 5px 5px 15px lightgrey;
+}
+.card{
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 15px lightgrey;
+    margin-top: 30px;
+}
+.online{
+    margin-top:20px;
+}
+.test{
+    margin-top:100px;
+    height:300px;
+ 
+}
+.test h1{
+    margin-bottom:10px;
+    text-decoration: none;
+}
+.man{
+    margin:0 auto;
+    font-weight:500;
+}
+.left{
+    border:1px red solid;
+}
+.last{
+    text-decoration: none;
+    background:#282531;
+    color:#fff;
+    padding:40px;
+}
+
+.foot p{
+    text-align:center;
+    margin-top:30px;
+}
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+}
